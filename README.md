@@ -1,5 +1,3 @@
-Predicting wine quality with supervised learning
-
 ## Quickstart
 ```zsh
 python3 -m venv env
