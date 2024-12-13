@@ -1,3 +1,6 @@
+# WineQuality
+An evaluation of the performance of various supervised machine learning methods on predicting the quality of wines.
+
 ## Quickstart
 ```zsh
 python3 -m venv env
